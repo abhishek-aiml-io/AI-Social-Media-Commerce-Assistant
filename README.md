@@ -68,7 +68,7 @@ To spin up this development environment locally, you will need **Node.js** insta
    ```
 
 4. **Access the application dashboard:**
-   Open your browser and navigate to `http://localhost:5173`
+   Open your browser and navigate to `https://commerse-ai.netlify.app`
 
 ---
 
