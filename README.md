@@ -5,6 +5,8 @@ An intelligent, localized growth-and-checkout workflow tool designed for modern 
 🚀 **Built for the Razorpay AI Buildathon 2026** (AI Growth & Agentic Commerce Track)
 
 ---
+🚀 **Live Demo:** [Click here to view the live app](https://commerse-ai.netlify)
+
 
 ## 🌟 Key Features
 
@@ -68,7 +70,7 @@ To spin up this development environment locally, you will need **Node.js** insta
    ```
 
 4. **Access the application dashboard:**
-   Open your browser and navigate to `https://commerse-ai.netlify.app`
+   Open your browser and navigate to `http://localhost:3001`
 
 ---
 
